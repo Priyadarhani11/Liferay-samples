@@ -1,0 +1,4 @@
+Bundle-Name: Object-crud
+Bundle-SymbolicName: com.obj
+Bundle-Version: 1.0.0
+Export-Package: com.obj.constants
